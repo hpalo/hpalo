@@ -1,6 +1,10 @@
+![ilveslogo256](https://github.com/hpalo/hpalo/assets/76248707/3b98b01a-221d-44fd-8e1e-39618b3cb6b1)
+
 ### Hi there 👋
+
 My name is Henrik. I am currently working on a few private game dev projects where Unity is being used.
 <!--
+
 **hpalo/hpalo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
