@@ -1,4 +1,5 @@
-![ilveslogo256](https://github.com/hpalo/hpalo/assets/76248707/3b98b01a-221d-44fd-8e1e-39618b3cb6b1)
+
+![ilveslogo_mustavalkoinen256](https://github.com/hpalo/hpalo/assets/76248707/4ffbc7f6-6f10-4d14-be9a-c7e96e640fed)
 
 ### Hi there 👋
 
