@@ -4,7 +4,7 @@
 
 ### Hi there 👋
 
-My name is Henrik. I am currently working on a private game dev project using Unity.
+My name is Henrik. I'm currently learning React coding.
 <!--
 
 **hpalo/hpalo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
