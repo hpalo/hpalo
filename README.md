@@ -4,7 +4,7 @@
 
 ### Hi there 👋
 
-My name is Henrik. I'm currently working on private projects.
+I'm currently working on private projects.
 <!--
 
 **hpalo/hpalo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
