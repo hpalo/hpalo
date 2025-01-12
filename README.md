@@ -1,9 +1,12 @@
 <!--
 ![ilveslogo_mustavalkoinen256](https://github.com/hpalo/hpalo/assets/76248707/4ffbc7f6-6f10-4d14-be9a-c7e96e640fed)
 -->
-
+ 
+<!--
 ### Hi there 👋
-Welcome to my repositories.
+-->
+Welcome.
+
 <!-- I'm currently working on private projects. -->
 <!--
 
